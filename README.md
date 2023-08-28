@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a math lover-2004
+- 👋 Hi, I’m a math lover
 - 👀 I’m interested in biomedical engineering
 - 🌱 I’m currently learning medicine :)
 - 💞️ I’m looking to collaborate on Making medical assistant robots
